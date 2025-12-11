@@ -12,7 +12,7 @@ This template is built using basic HTML and CSS, designed to be a standalone, si
 | :--- | :--- |
 | `index.html` | The main HTML structure of the blog post. |
 | `style.css` | The CSS file defining the layout, styling, and typography. |
-| `logo.png` | The favicon image (a purple "beta" symbol). |
+| `logo.png` | The favicon image (a purple B symbol). |
 | `image-1.jpg` | A background image with abstract purple shapes, used in the header (`.image-1`). |
 | `image-2.jpg` | The main illustrative image showing a microwave with a Bluetooth speaker on top, central to the story. |
 | `fonts/` | (Assumed directory) Contains the custom font files (`boorush.ttf`, `floren.otf`, `nunito.ttf`) used for styling. |
